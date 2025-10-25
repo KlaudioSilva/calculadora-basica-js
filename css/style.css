@@ -1,0 +1,31 @@
+/*system colors*/
+:root{
+    --background: #ecf0f3;
+    --white: #ffffff;
+    --shadow: rgba(0, 0, 0, 0.16);
+    --btn-defaut: #78797a;
+    --btn-defaut-hover: #afafaf;
+    --btn-up-gray: #5e5e60;
+    --btn-up-gray-hover: #7b797a;
+    --btn-up-orange: #ff9e0b;
+    --btn-up-orange-hover: #c97c02;
+    --btn-up-result: #504b52;
+    --btn-up-close: #fe5f56;
+    --btn-up-min: #fdbc2e;
+    --btn-up-max: #28c840;
+    --btn-borders: rgba(0, 0, 0, 0.4);
+    --border-calculator: rgba(0, 0, 0, 1);
+}
+
+*{
+    font-family: Verdana, sans-serif;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    letter-spacing: 0px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+    margin: 0;
+    background: var(--background);
+    outline: none;
+}

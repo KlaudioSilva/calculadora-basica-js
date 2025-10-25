@@ -34,7 +34,7 @@ Pronto! A calculadora estará funcionando localmente.
 ---
 
 ## 📂 Estrutura do Projeto
-calculadora/
+calculadora/  
 ├── index.html  
 ├── style.css  
 └── script.js  
